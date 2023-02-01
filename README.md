@@ -1,4 +1,4 @@
-# Functional Python [![](https://github.com/mikeizbicki/functional-python/workflows/tests/badge.svg)](https://github.com/mikeizbicki/functional-python/actions?query=workflow%3Atests)
+# Functional Python [![](https://github.com/lwelch25/functional-python1/workflows/tests/badge.svg)](https://github.com/lwelch25/functional-python1/actions?query=workflow%3Atests)
 
 ## Instructions
 
